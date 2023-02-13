@@ -1,3 +1,4 @@
+<html>
 <!--EDITING TEXT-->
 
 <h1>Header</h1><!--Headers. Gets smaller going up from one-->
@@ -121,3 +122,4 @@ Anything here can be applied in the head section like up above with <style>-->
 <img src="https://ccfwd.moodlecloud.com/draftfile.php/1301/user/draft/430050891/video_reflection_icon_ccfwd.png" alt="Clapboard Icon" width="96" height="96" role="presentation" class="img-fluid atto_image_button_left"><br>
     
 </body>
+</html>
